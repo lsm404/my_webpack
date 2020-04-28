@@ -1,0 +1,6 @@
+// 配置babel,设置 转码规则和插件
+{
+  "presets": [
+    "@babel/preset-env"
+  ]
+}
